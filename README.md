@@ -20,12 +20,12 @@
 
 <div align="center">
 
-<!-- Streak separado -->
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauroFurtado&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 
-<!-- Stats e Linguagens lado a lado -->
+
 
 <table>
   <tr>

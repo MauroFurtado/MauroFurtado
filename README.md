@@ -1,9 +1,8 @@
-# 👋 Olá, eu sou o Mauro Lucio Lopes Furtado
-
+# 👋 Olá, eu sou o Mauro Furtado
 🎓 Estudante de Engenharia de Computação na UFC
-💻 Foco em desenvolvimento Backend com C# e .NET
-📍 Sobral – CE – Brasil | 🇧🇷
-📫 Contato
+<br/>💻 Foco em desenvolvimento Backend com C# e .NET
+<br/>📍 Sobral – CE – Brasil | 🇧🇷
+<br/>📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-furtado-5845791a8)
 

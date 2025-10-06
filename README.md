@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mauro Furtado
 🎓 Estudante de Engenharia de Computação na UFC
-<br/>💻 Foco em desenvolvimento Backend com C# e .NET
+<br/>💻 Foco em desenvolvimento WEB
 <br/>📍 Sobral – CE – Brasil | 🇧🇷
 <br/>📫 Contato
 

@@ -8,7 +8,7 @@
 
 <br/>
 
-![Sobral](https://img.shields.io/badge/📍_Sobral,_CE-Brasil_🇧🇷-0F2027?style=flat-square)
+![Localização](https://img.shields.io/badge/📍_Cabo_Verde-🇨🇻-0F2027?style=flat-square)
 ![UFC](https://img.shields.io/badge/🎓_UFC-Eng._de_Computação-2C5364?style=flat-square)
 ![Foco](https://img.shields.io/badge/💻_Foco-Desenvolvimento_Web-38BDF8?style=flat-square)
 
